@@ -1,0 +1,13 @@
+Escribir en terminal:
+1.  make
+2.  java ProductorConsumidor n_cons n_prod n_iterc n_iterp
+
+3. make install  (En caso de deje compilar en JAVA) 
+
+Siendo,
+	n_cons, el numero de consumidores
+	n_prod, el numero de productores
+	n_iterc, el numero de consumiciones por consumidor
+	n_iterp, el numero de producciones por productor
+
+Condicion: n_cons*n_iterc==n_prod*n_iterp
